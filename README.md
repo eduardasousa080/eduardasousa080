@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Euarda Sousa 🖐️
 
-[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([hhtps://instagram.com/_duuda_sousa](https://www.instagram.com/_duuda_sousa?igsh=MXJsZHd5N29zYndnMQ==))
+[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([[[hhtps://instagram.com/_duuda_sousa](https://www.instagram.com/_duuda_sousa?igsh=MXJsZHd5N29zYndnMQ==)](https://www.instagram.com/_duuda_sousa?igsh=MXJsZHd5N29zYndnMQ==)](https://www.instagram.com/_duuda_sousa?igsh=MXJsZHd5N29zYndnMQ==))
 
 
 
